@@ -1,0 +1,43 @@
+﻿Compilación iniciada a las 03/11/2015 22:47:56.
+     1>Proyecto "E:\uni\2n\Física\PokePinball\Physics2_class4 - handout\SDL Game.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ModuleSceneIntro.cpp
+         ModuleSceneIntro.cpp
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(138): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(139): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(518): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(519): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(520): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(521): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(522): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(523): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(524): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(525): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(526): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(600): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(647): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(680): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(682): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(684): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(687): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(695): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(718): warning C4101: 'y' : variable local sin referencia
+     1>e:\uni\2n\física\pokepinball\physics2_class4 - handout\modulesceneintro.cpp(718): warning C4101: 'x' : variable local sin referencia
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\uni\2n\Física\PokePinball\Physics2_class4 - handout\Debug\2D Physics - class 4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\uni\2n\Física\PokePinball\Physics2_class4 - handout\Debug\2D Physics - class 4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\uni\2n\Física\PokePinball\Physics2_class4 - handout\Debug\2D Physics - class 4.lib" /MACHINE:X86 Debug\Application.obj
+         Debug\log.obj
+         Debug\Main.obj
+         Debug\ModuleAudio.obj
+         Debug\ModuleInput.obj
+         Debug\ModulePhysics.obj
+         Debug\ModulePlayer.obj
+         Debug\ModuleRender.obj
+         Debug\ModuleSceneIntro.obj
+         Debug\ModuleTextures.obj
+         Debug\ModuleWindow.obj
+         SDL Game.vcxproj -> E:\uni\2n\Física\PokePinball\Physics2_class4 - handout\Debug\2D Physics - class 4.exe
+     1>Compilación del proyecto terminada "E:\uni\2n\Física\PokePinball\Physics2_class4 - handout\SDL Game.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.75
